@@ -1,0 +1,4 @@
+name: RoleplayAPI
+version: ${project.version}
+main: dev.blockeed.roleplayapi.RoleplayAPI
+api-version: 1.16
