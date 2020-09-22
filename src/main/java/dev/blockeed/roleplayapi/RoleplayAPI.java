@@ -1,6 +1,5 @@
 package dev.blockeed.roleplayapi;
 
-import org.bukkit.craftbukkit.v1_16_R2.entity.CraftPlayer;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class RoleplayAPI extends JavaPlugin {
